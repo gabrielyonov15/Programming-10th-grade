@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\bin\Debug\net6.0\PrintHeartShape.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\bin\Debug\net6.0\PrintHeartShape.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\bin\Debug\net6.0\PrintHeartShape.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\bin\Debug\net6.0\PrintHeartShape.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\bin\Debug\net6.0\PrintHeartShape.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\refint\PrintHeartShape.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\PrintHeartShape.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintHeartShape\obj\Debug\net6.0\ref\PrintHeartShape.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\bin\Debug\net6.0\LongestIncreasingSequenceInAnArray.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\bin\Debug\net6.0\LongestIncreasingSequenceInAnArray.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\bin\Debug\net6.0\LongestIncreasingSequenceInAnArray.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\bin\Debug\net6.0\LongestIncreasingSequenceInAnArray.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\bin\Debug\net6.0\LongestIncreasingSequenceInAnArray.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\refint\LongestIncreasingSequenceInAnArray.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\LongestIncreasingSequenceInAnArray.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\LongestIncreasingSequenceInAnArray\obj\Debug\net6.0\ref\LongestIncreasingSequenceInAnArray.dll

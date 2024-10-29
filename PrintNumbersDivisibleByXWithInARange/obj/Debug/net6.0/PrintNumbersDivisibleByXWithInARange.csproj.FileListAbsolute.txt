@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\bin\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\bin\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\bin\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\bin\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\bin\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\refint\PrintNumbersDivisibleByXWithInARange.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\PrintNumbersDivisibleByXWithInARange.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersDivisibleByXWithInARange\obj\Debug\net6.0\ref\PrintNumbersDivisibleByXWithInARange.dll

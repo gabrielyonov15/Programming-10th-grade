@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\bin\Debug\net6.0\CreateADynamicArrayAndPerformOperations.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\bin\Debug\net6.0\CreateADynamicArrayAndPerformOperations.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\bin\Debug\net6.0\CreateADynamicArrayAndPerformOperations.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\bin\Debug\net6.0\CreateADynamicArrayAndPerformOperations.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\bin\Debug\net6.0\CreateADynamicArrayAndPerformOperations.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\refint\CreateADynamicArrayAndPerformOperations.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\CreateADynamicArrayAndPerformOperations.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CreateADynamicArrayAndPerformOperations\obj\Debug\net6.0\ref\CreateADynamicArrayAndPerformOperations.dll

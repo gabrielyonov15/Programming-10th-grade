@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\bin\Debug\net6.0\CopyLinkedList.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\bin\Debug\net6.0\CopyLinkedList.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\bin\Debug\net6.0\CopyLinkedList.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\bin\Debug\net6.0\CopyLinkedList.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\bin\Debug\net6.0\CopyLinkedList.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\refint\CopyLinkedList.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\CopyLinkedList.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CopyLinkedList\obj\Debug\net6.0\ref\CopyLinkedList.dll

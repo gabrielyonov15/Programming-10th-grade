@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\bin\Debug\net6.0\CountOccurrencesInList.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\bin\Debug\net6.0\CountOccurrencesInList.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\bin\Debug\net6.0\CountOccurrencesInList.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\bin\Debug\net6.0\CountOccurrencesInList.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\bin\Debug\net6.0\CountOccurrencesInList.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\refint\CountOccurrencesInList.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\CountOccurrencesInList.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CountOccurrencesInList\obj\Debug\net6.0\ref\CountOccurrencesInList.dll

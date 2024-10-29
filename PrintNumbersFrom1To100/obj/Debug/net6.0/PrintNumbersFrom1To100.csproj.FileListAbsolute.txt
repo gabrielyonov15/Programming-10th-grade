@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\bin\Debug\net6.0\PrintNumbersFrom1To100.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\bin\Debug\net6.0\PrintNumbersFrom1To100.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\bin\Debug\net6.0\PrintNumbersFrom1To100.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\bin\Debug\net6.0\PrintNumbersFrom1To100.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\bin\Debug\net6.0\PrintNumbersFrom1To100.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\refint\PrintNumbersFrom1To100.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\PrintNumbersFrom1To100.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersFrom1To100\obj\Debug\net6.0\ref\PrintNumbersFrom1To100.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\bin\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\bin\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\bin\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\bin\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\bin\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\refint\PrintPositiveEvenNumbersLessThanN.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\PrintPositiveEvenNumbersLessThanN.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintPositiveEvenNumbersLessThanN\obj\Debug\net6.0\ref\PrintPositiveEvenNumbersLessThanN.dll

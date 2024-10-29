@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\bin\Debug\net6.0\PrintNumbersWithinARange.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\bin\Debug\net6.0\PrintNumbersWithinARange.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\bin\Debug\net6.0\PrintNumbersWithinARange.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\bin\Debug\net6.0\PrintNumbersWithinARange.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\bin\Debug\net6.0\PrintNumbersWithinARange.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\refint\PrintNumbersWithinARange.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\PrintNumbersWithinARange.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\PrintNumbersWithinARange\obj\Debug\net6.0\ref\PrintNumbersWithinARange.dll

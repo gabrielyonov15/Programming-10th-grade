@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\bin\Debug\net6.0\ArrayToArrayListConversionAndSorting.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\bin\Debug\net6.0\ArrayToArrayListConversionAndSorting.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\bin\Debug\net6.0\ArrayToArrayListConversionAndSorting.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\bin\Debug\net6.0\ArrayToArrayListConversionAndSorting.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\bin\Debug\net6.0\ArrayToArrayListConversionAndSorting.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\refint\ArrayToArrayListConversionAndSorting.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ArrayToArrayListConversionAndSorting.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ArrayToArrayListConversionAndSorting\obj\Debug\net6.0\ref\ArrayToArrayListConversionAndSorting.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\bin\Debug\net6.0\CalculateAverageOfPositiveElements.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\bin\Debug\net6.0\CalculateAverageOfPositiveElements.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\bin\Debug\net6.0\CalculateAverageOfPositiveElements.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\bin\Debug\net6.0\CalculateAverageOfPositiveElements.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\bin\Debug\net6.0\CalculateAverageOfPositiveElements.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\refint\CalculateAverageOfPositiveElements.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\CalculateAverageOfPositiveElements.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateAverageOfPositiveElements\obj\Debug\net6.0\ref\CalculateAverageOfPositiveElements.dll

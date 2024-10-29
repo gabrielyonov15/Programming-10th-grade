@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\bin\Debug\net6.0\SumAndAverageOfNNumbers.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\bin\Debug\net6.0\SumAndAverageOfNNumbers.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\bin\Debug\net6.0\SumAndAverageOfNNumbers.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\bin\Debug\net6.0\SumAndAverageOfNNumbers.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\bin\Debug\net6.0\SumAndAverageOfNNumbers.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\refint\SumAndAverageOfNNumbers.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\SumAndAverageOfNNumbers.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SumAndAverageOfNNumbers\obj\Debug\net6.0\ref\SumAndAverageOfNNumbers.dll

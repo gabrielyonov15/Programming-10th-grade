@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\bin\Debug\net6.0\SwapValuesOfTwoIntegerVariables.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\bin\Debug\net6.0\SwapValuesOfTwoIntegerVariables.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\bin\Debug\net6.0\SwapValuesOfTwoIntegerVariables.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\bin\Debug\net6.0\SwapValuesOfTwoIntegerVariables.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\bin\Debug\net6.0\SwapValuesOfTwoIntegerVariables.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\refint\SwapValuesOfTwoIntegerVariables.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\SwapValuesOfTwoIntegerVariables.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\SwapValuesOfTwoIntegerVariables\obj\Debug\net6.0\ref\SwapValuesOfTwoIntegerVariables.dll

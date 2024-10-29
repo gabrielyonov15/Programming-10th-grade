@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\bin\Debug\net6.0\CalculateTheSumOfArrayElements.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\bin\Debug\net6.0\CalculateTheSumOfArrayElements.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\bin\Debug\net6.0\CalculateTheSumOfArrayElements.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\bin\Debug\net6.0\CalculateTheSumOfArrayElements.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\bin\Debug\net6.0\CalculateTheSumOfArrayElements.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\refint\CalculateTheSumOfArrayElements.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\CalculateTheSumOfArrayElements.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CalculateTheSumOfArrayElements\obj\Debug\net6.0\ref\CalculateTheSumOfArrayElements.dll

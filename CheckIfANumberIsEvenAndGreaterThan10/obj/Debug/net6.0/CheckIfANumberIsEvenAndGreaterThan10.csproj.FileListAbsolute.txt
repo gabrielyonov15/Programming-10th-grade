@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\bin\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\bin\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\bin\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\bin\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\bin\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\refint\CheckIfANumberIsEvenAndGreaterThan10.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\CheckIfANumberIsEvenAndGreaterThan10.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsEvenAndGreaterThan10\obj\Debug\net6.0\ref\CheckIfANumberIsEvenAndGreaterThan10.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\bin\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\bin\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\bin\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\bin\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\bin\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\refint\CheckIfANumberIsLessThan5OrGreaterThan20.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\CheckIfANumberIsLessThan5OrGreaterThan20.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CheckIfANumberIsLessThan5OrGreaterThan20\obj\Debug\net6.0\ref\CheckIfANumberIsLessThan5OrGreaterThan20.dll

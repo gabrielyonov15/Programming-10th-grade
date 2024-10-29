@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\bin\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\bin\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\bin\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\bin\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\bin\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\refint\CollectNumbersInArrayListAndPerformOperations.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\CollectNumbersInArrayListAndPerformOperations.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\CollectNumbersInArrayListAndPerformOperations\obj\Debug\net6.0\ref\CollectNumbersInArrayListAndPerformOperations.dll

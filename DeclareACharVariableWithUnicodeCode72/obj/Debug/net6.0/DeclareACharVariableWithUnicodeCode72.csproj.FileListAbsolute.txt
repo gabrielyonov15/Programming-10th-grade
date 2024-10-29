@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\bin\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\bin\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\bin\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\bin\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\bin\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\refint\DeclareACharVariableWithUnicodeCode72.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\DeclareACharVariableWithUnicodeCode72.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\DeclareACharVariableWithUnicodeCode72\obj\Debug\net6.0\ref\DeclareACharVariableWithUnicodeCode72.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\bin\Debug\net6.0\ImplementationOfAResizableArray.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\bin\Debug\net6.0\ImplementationOfAResizableArray.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\bin\Debug\net6.0\ImplementationOfAResizableArray.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\bin\Debug\net6.0\ImplementationOfAResizableArray.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\bin\Debug\net6.0\ImplementationOfAResizableArray.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\refint\ImplementationOfAResizableArray.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ImplementationOfAResizableArray.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\ImplementationOfAResizableArray\obj\Debug\net6.0\ref\ImplementationOfAResizableArray.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\bin\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.exe
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\bin\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.deps.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\bin\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\bin\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\bin\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\refint\FindingTheMajorityElementInAnArrayUsingAStack.dll
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.pdb
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\FindingTheMajorityElementInAnArrayUsingAStack.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming 10th grade\Programming 10th grade\FindingTheMajorityElementInAnArrayUsingAStack\obj\Debug\net6.0\ref\FindingTheMajorityElementInAnArrayUsingAStack.dll
